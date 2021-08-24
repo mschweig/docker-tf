@@ -1,0 +1,2 @@
+docker pull tensorflow/tensorflow:latest-jupyter  # latest release w/ Jupyter
+
