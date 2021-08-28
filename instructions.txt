@@ -1,2 +1,6 @@
 docker pull tensorflow/tensorflow:latest-jupyter  # latest release w/ Jupyter
 
+sklearn muss noch hinzugefügt werden:
+pip install -U scikit-learn scipy matplotlib
+
+
