@@ -26,6 +26,8 @@ RUN mkdir /workdir/spot && \
         git \
         python3-setuptools \
         libncurses5 libncurses5-dev \
+		python3-pyqt5 \
+		python3-pyqt4 \
         libyaml-dev libfdt1 && \
     mkdir tmp && cd tmp && \
 	wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tgz && \
